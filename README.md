@@ -3,7 +3,7 @@ practica de  clase de Introducción a Ciencias de la Computación de Salvador L�
 ### **Practica I**
 La practica consta de dos programas
 
-###Psicologo
+### Psicologo
 **Objetivo**
 
 El objetivo de esta práctica es que el alumno se familiarice con la creación y uso de objetos de la clase String utilizando algunos métodos de dicha clase en la elaboración de un programa.
