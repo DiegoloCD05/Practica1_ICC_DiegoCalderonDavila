@@ -1,9 +1,8 @@
 # Practica1_ICC_DiegoCalderonDavila
 practica de  clase de Introducción a Ciencias de la Computación de Salvador López Mendoza. Alumno: Diego Calderón Dávila 
 ### **Practica I**
-
-**Diego Calderón Dávila**
 La practica consta de dos programas
+
 ###Psicologo
 **Objetivo**
 
